@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background: #ffe6f2;
-  font-family: 'Comic Sans MS', cursive, sans-serif;
+  font-family: 'Comic Sans MS', cursive, sans-serif, Arial;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -54,3 +54,4 @@ canvas {
   pointer-events: none;
   z-index: 0;
 }
+
